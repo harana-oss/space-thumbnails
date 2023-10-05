@@ -5,6 +5,6 @@ edition = "2021"
 
 [dependencies]
 space-thumbnails-windows = { path = "../windows" }
-windows = "0.34.0"
-ureq = "2.4"
+windows = "0.51"
+ureq = "2"
 zip = "0.6"
